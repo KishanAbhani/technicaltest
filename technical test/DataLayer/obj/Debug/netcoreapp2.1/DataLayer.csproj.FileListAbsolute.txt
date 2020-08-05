@@ -1,0 +1,14 @@
+H:\AI\Project\Test\technical test\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.deps.json
+H:\AI\Project\Test\technical test\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.dll
+H:\AI\Project\Test\technical test\DataLayer\bin\Debug\netcoreapp2.1\DataLayer.pdb
+H:\AI\Project\Test\technical test\DataLayer\bin\Debug\netcoreapp2.1\Common.dll
+H:\AI\Project\Test\technical test\DataLayer\bin\Debug\netcoreapp2.1\Models.dll
+H:\AI\Project\Test\technical test\DataLayer\bin\Debug\netcoreapp2.1\Common.pdb
+H:\AI\Project\Test\technical test\DataLayer\bin\Debug\netcoreapp2.1\Models.pdb
+H:\AI\Project\Test\technical test\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csprojAssemblyReference.cache
+H:\AI\Project\Test\technical test\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CoreCompileInputs.cache
+H:\AI\Project\Test\technical test\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfoInputs.cache
+H:\AI\Project\Test\technical test\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.AssemblyInfo.cs
+H:\AI\Project\Test\technical test\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.csproj.CopyComplete
+H:\AI\Project\Test\technical test\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.dll
+H:\AI\Project\Test\technical test\DataLayer\obj\Debug\netcoreapp2.1\DataLayer.pdb

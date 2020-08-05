@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "d448cc8cd1b777534f2adc3e4a06536686d49677"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "DataLayer/1.0.0": {
+        "dependencies": {
+          "Common": "1.0.0",
+          "Models": "1.0.0",
+          "Oracle.ManagedDataAccess.Core": "2.19.80"
+        },
+        "runtime": {
+          "DataLayer.dll": {}
+        }
+      },
+      "Oracle.ManagedDataAccess.Core/2.19.80": {
+        "runtime": {
+          "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "2.0.19.1",
+            "fileVersion": "2.0.19.1"
+          }
+        }
+      },
+      "Common/1.0.0": {
+        "runtime": {
+          "Common.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "runtime": {
+          "Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Oracle.ManagedDataAccess.Core/2.19.80": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9THgy6Al7EYl4ZUlF0Mazb6jn4LmdRuDhsIIOJ78kyV/9kCJOMZH1EJwZ8LxwKqyX5BfWlLbMulV8iocKqB2ow==",
+      "path": "oracle.manageddataaccess.core/2.19.80",
+      "hashPath": "oracle.manageddataaccess.core.2.19.80.nupkg.sha512"
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+H:\AI\Project\Test\technical test\Common\bin\Debug\Common.dll
+H:\AI\Project\Test\technical test\Common\bin\Debug\Common.pdb
+H:\AI\Project\Test\technical test\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+H:\AI\Project\Test\technical test\Common\obj\Debug\Common.dll
+H:\AI\Project\Test\technical test\Common\obj\Debug\Common.pdb

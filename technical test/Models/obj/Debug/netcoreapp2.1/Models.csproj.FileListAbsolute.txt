@@ -1,0 +1,8 @@
+H:\AI\Project\Test\technical test\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+H:\AI\Project\Test\technical test\Models\bin\Debug\netcoreapp2.1\Models.dll
+H:\AI\Project\Test\technical test\Models\bin\Debug\netcoreapp2.1\Models.pdb
+H:\AI\Project\Test\technical test\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+H:\AI\Project\Test\technical test\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+H:\AI\Project\Test\technical test\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+H:\AI\Project\Test\technical test\Models\obj\Debug\netcoreapp2.1\Models.dll
+H:\AI\Project\Test\technical test\Models\obj\Debug\netcoreapp2.1\Models.pdb

@@ -1,0 +1,16 @@
+H:\AI\Project\Test\technical test\BusinessLogic\bin\Debug\netcoreapp2.1\BusinessLogic.deps.json
+H:\AI\Project\Test\technical test\BusinessLogic\bin\Debug\netcoreapp2.1\BusinessLogic.dll
+H:\AI\Project\Test\technical test\BusinessLogic\bin\Debug\netcoreapp2.1\BusinessLogic.pdb
+H:\AI\Project\Test\technical test\BusinessLogic\bin\Debug\netcoreapp2.1\Common.dll
+H:\AI\Project\Test\technical test\BusinessLogic\bin\Debug\netcoreapp2.1\DataLayer.dll
+H:\AI\Project\Test\technical test\BusinessLogic\bin\Debug\netcoreapp2.1\Models.dll
+H:\AI\Project\Test\technical test\BusinessLogic\bin\Debug\netcoreapp2.1\DataLayer.pdb
+H:\AI\Project\Test\technical test\BusinessLogic\bin\Debug\netcoreapp2.1\Models.pdb
+H:\AI\Project\Test\technical test\BusinessLogic\bin\Debug\netcoreapp2.1\Common.pdb
+H:\AI\Project\Test\technical test\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.csprojAssemblyReference.cache
+H:\AI\Project\Test\technical test\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.csproj.CoreCompileInputs.cache
+H:\AI\Project\Test\technical test\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.AssemblyInfoInputs.cache
+H:\AI\Project\Test\technical test\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.AssemblyInfo.cs
+H:\AI\Project\Test\technical test\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.csproj.CopyComplete
+H:\AI\Project\Test\technical test\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.dll
+H:\AI\Project\Test\technical test\BusinessLogic\obj\Debug\netcoreapp2.1\BusinessLogic.pdb

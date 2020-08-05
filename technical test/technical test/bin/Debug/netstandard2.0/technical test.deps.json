@@ -1,0 +1,101 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "03eaff5665a626a5dd64a486c89175b79da1b3a3"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "technical test/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "Oracle.ManagedDataAccess.EntityFramework": "19.7.0"
+        },
+        "runtime": {
+          "technical test.dll": {}
+        }
+      },
+      "EntityFramework/6.0.0": {
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.20911.0"
+          },
+          "lib/net45/EntityFramework.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.20911.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Oracle.ManagedDataAccess/19.7.0": {
+        "runtime": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "4.122.19.1",
+            "fileVersion": "4.122.19.1"
+          }
+        }
+      },
+      "Oracle.ManagedDataAccess.EntityFramework/19.7.0": {
+        "dependencies": {
+          "EntityFramework": "6.0.0",
+          "Oracle.ManagedDataAccess": "19.7.0"
+        },
+        "runtime": {
+          "lib/net45/Oracle.ManagedDataAccess.EntityFramework.dll": {
+            "assemblyVersion": "6.122.19.1",
+            "fileVersion": "6.122.19.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "technical test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityFramework/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LWzCSlNOd9b0FpgH6m1Xuo73qqMHfqcxfczCThTqvtAtKHLIs+75nqAypGmwE3KizHWAPu7990cX4Z5gNGJOJw==",
+      "path": "entityframework/6.0.0",
+      "hashPath": "entityframework.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Oracle.ManagedDataAccess/19.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O9j7CPHL3reGt4N8AjOjLs9dLXKk0uroUB0Q3tqz96hnyywxF+dkVh+m6DDcOhIY+AEp94zewbeJCejM00AT3Q==",
+      "path": "oracle.manageddataaccess/19.7.0",
+      "hashPath": "oracle.manageddataaccess.19.7.0.nupkg.sha512"
+    },
+    "Oracle.ManagedDataAccess.EntityFramework/19.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wptlaO9+VnsQ4NywRwOVlMMydnV30NaO9/Hft79E5NKl/T7Bt1bdhIIAQ2OIIwMOu0MxFpHUZU8o9qMhFQf55g==",
+      "path": "oracle.manageddataaccess.entityframework/19.7.0",
+      "hashPath": "oracle.manageddataaccess.entityframework.19.7.0.nupkg.sha512"
+    }
+  }
+}
